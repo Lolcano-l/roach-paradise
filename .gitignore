@@ -1,0 +1,4 @@
+*.pdb
+*.user
+obj/
+bin/
