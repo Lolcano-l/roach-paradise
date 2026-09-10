@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/LLLvvvo/roach-paradise/raw/refs/heads/main/release/RoachParadise.exe">
+  <a href="https://github.com/Lolcano-l/roach-paradise/raw/refs/heads/main/release/RoachParadise.exe">
     <img alt="下载 EXE" src="https://img.shields.io/badge/⬇_下载-RoachParadise.exe-F2A65A?style=for-the-badge">
   </a>
 </p>
